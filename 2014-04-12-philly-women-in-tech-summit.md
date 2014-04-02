@@ -1,9 +1,11 @@
 # CSS: Essentials of Website Styling
 
+Philly Women in Tech Summit
 April 12, 2014
 10:15-11:45am (1hr 30min)
 
 Don't already have a favorite code editor? 
+
 Install <http://sublimetext.com>
 
 
