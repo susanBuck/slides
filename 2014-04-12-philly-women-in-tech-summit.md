@@ -14,29 +14,31 @@ Install <http://sublimetext.com>
 * Cascading Style Sheets
 * HTML is a mark-up language consisting of about [100 different tags](https://developer.mozilla.org/en/HTML/Element):
 
-	<!DOCTYPE html>
-	<html>
-	<head>
+````html
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+	<meta charset='utf-8'>
 	
-		<title></title>
-		<meta charset='utf-8'>
-		
-	</head>
-	<body>
+</head>
+<body>
+
+	<h1>Hello World!</h1>
 	
-		<h1>Hello World!</h1>
-		
-		<p>Welcome to my very simple web page.</p>
+	<p>Welcome to my very simple web page.</p>
+
+	<p>Here are three of my favorite things:</p>
+	<ul>
+		<li>Kittens</li>
+		<li>Kittens</li>
+		<li>Kittens</li>
+	</ul>
 	
-		<p>Here are three of my favorite things:</p>
-		<ul>
-			<li>Kittens</li>
-			<li>Kittens</li>
-			<li>Kittens</li>
-		</ul>
-		
-	</body>
-	</html>
+</body>
+</html>
+````
 	
 
 # Integrating into HTML
