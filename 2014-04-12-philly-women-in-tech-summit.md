@@ -1,12 +1,12 @@
 # CSS: Essentials of Website Styling
 
-Philly Women in Tech Summit
-
-April 12, 2014
+Philly Women in Tech Summit - April 12, 2014
 
 10:15-11:45am (1hr 30min)
 
-http://thewc.co/s/philly-wit-2014
+Susan Buck / [Women's Coding Collective](http://thewc.co) @WeAreWCC
+
+Notes: http://thewc.co/s/philly-wit-2014
 
 Don't already have a favorite code editor? Try <http://sublimetext.com>
 
@@ -51,10 +51,10 @@ Don't already have a favorite code editor? Try <http://sublimetext.com>
 2. Internal
 3. External
 
-<img src='http://thewc.co/images/tasks/css_three_methods_summary.png'>
+![Integrating CSS into HTML metaphor](http://thewc.co/images/tasks/css_three_methods_summary.png)
+
 
 # Syntax basics
-
 
 CSS is made up of `property:value;` pairs assigned to HTML elements
 
@@ -116,7 +116,7 @@ CSS Properties used to control layouts and positioning:
 
 Recreate the following page:
 
-![CSS Practice](http://making-the-internet.s3.amazonaws.com/css-basics-exercise.png?2x)
+![CSS Practice](http://making-the-internet.s3.amazonaws.com/css-basics-exercise.png?@2x)
 
 
 
