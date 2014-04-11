@@ -1,8 +1,3 @@
-{
-  "target": "_blank"
-}
-
-
 # CSS: Essentials of Website Styling
 
 Philly Women in Tech Summit
