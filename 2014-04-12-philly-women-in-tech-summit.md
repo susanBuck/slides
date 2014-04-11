@@ -8,9 +8,7 @@ April 12, 2014
 
 http://thewc.co/s/philly-wit-2014
 
-Don't already have a favorite code editor? 
-
-Install <http://sublimetext.com>
+Don't already have a favorite code editor? Try <http://sublimetext.com>
 
 
 
@@ -53,6 +51,7 @@ Install <http://sublimetext.com>
 2. Internal
 3. External
 
+<img src='http://thewc.co/images/tasks/css_three_methods_summary.png'>
 
 # Syntax basics
 
