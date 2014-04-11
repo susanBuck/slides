@@ -98,19 +98,6 @@ For example: `color:red;` or `margin:5px;`
 * Computed styles
 * None of the changes are permanent
 
-# Layouts
-
-CSS Properties used to control layouts and positioning:
-
-* position (static, absolute, relative or fixed)
-* top, left, bottom, right
-* margin
-* padding
-* float (left, right)
-* clear (left, right or both)
-
-* [Cheat Sheet](http://thewc.co.s3.amazonaws.com/challenges/css-layouts-cheat-sheet.pdf)
-
 
 # More Practice
 
