@@ -1,8 +1,17 @@
+{
+  "target": "_blank"
+}
+
+
 # CSS: Essentials of Website Styling
 
 Philly Women in Tech Summit
+
 April 12, 2014
+
 10:15-11:45am (1hr 30min)
+
+http://thewc.co/s/philly-wit-2014
 
 Don't already have a favorite code editor? 
 
@@ -59,7 +68,7 @@ These `property:value;` pairs are called **declarations**
 
 For example: `color:red;` or `margin:5px;`
 
-Reference for all the available CSS properties: <https://developer.mozilla.org/en-US/docs/Web/CSS/Reference>
+[MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 
 # Practice
@@ -113,7 +122,7 @@ CSS Properties used to control layouts and positioning:
 
 Recreate the following page:
 
-![Alt text](http://making-the-internet.s3.amazonaws.com/css-basics-exercise.png?2x)
+![CSS Practice](http://making-the-internet.s3.amazonaws.com/css-basics-exercise.png?2x)
 
 
 
