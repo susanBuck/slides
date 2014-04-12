@@ -53,21 +53,9 @@ Don't already have a favorite code editor? Try <http://sublimetext.com>
 
 ![Integrating CSS into HTML metaphor](http://thewc.co/images/tasks/css_three_methods_summary.png)
 
-
-# Syntax basics
-
-CSS is made up of `property:value;` pairs assigned to HTML elements
-
-These `property:value;` pairs are called **declarations**
-
-For example: `color:red;` or `margin:5px;`
-
-[MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-
-
 # Practice
 
-	<h1>Monies</h1>
+	<h1>Accounting Report</h1>
 	
 	<h2>March 2014</h2>
 	<div class='income'>$200</div>
@@ -88,6 +76,20 @@ For example: `color:red;` or `margin:5px;`
 * Make the expenses line red
 * Make both the income and expenses line a mono-spaced font
 * Remove the space between the h2's and the numbers below them
+
+
+
+# Syntax basics
+
+CSS is made up of `property:value;` pairs assigned to HTML elements
+
+These `property:value;` pairs are called **declarations**
+
+For example: `color:red;` or `margin:5px;`
+
+[MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+
 
 
 # Web Inspectors
