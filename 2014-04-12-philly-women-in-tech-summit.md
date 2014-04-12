@@ -99,6 +99,7 @@ For example: `color:red;` or `margin:5px;`
 * Crossed out styles are ones that have been overwritten
 * Computed styles
 * None of the changes are permanent
+* [Tutorial...](http://thewc.co/articles/view/web-inspector-tutorial)
 
 
 # More Practice
