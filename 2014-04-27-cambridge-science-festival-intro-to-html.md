@@ -28,23 +28,25 @@ Notes: http://thewc.co/s/
 2. Save the file as practice.html to somewhere accessible like your Documents or Desktop
 3. Once the file is saved, right click in Sublime and choose *Open in browser*
 
-	<!DOCTYPE html>
-	<html>
-	<head>
-	
-		<meta charset='utf-8'>
-		
-		<title>My Web Site</title>		
+~~~~
+<!DOCTYPE html>
+<html>
+<head>
 
-	</head>
+	<meta charset='utf-8'>
 	
-	<body>
-	
-		<h1>Hello World!</h1>
-	 
-	</body>
-	
-	</html>
+	<title>My Web Site</title>		
+
+</head>
+
+<body>
+
+	<h1>Hello World!</h1>
+ 
+</body>
+
+</html>
+~~~~
 
 ### doctype
 Doctype gives the browser information about the kind of HTML you're writing so it knows how to render it. There are many kind of doctypes, but here we're using the latest HTML5 doctype.
@@ -57,11 +59,6 @@ In this template, we start off the head with the `<meta charset='utf-8'>` elemen
 
 ### Body
 The body is where content content of your page goes.
-
-### Comments
-The `<!-- -->` syntax is used for HTML comments.
-Use them to organize your code, leave reminders for yourself, etc.
-
 
 
 
