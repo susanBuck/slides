@@ -1,12 +1,12 @@
 # Intro to HTML for Girls & Their Moms--or Grandmas, Aunts, Big Sisters, etc.
 
-Cambridge Science Festival - April 27, 2014
+Cambridge Science Festival - April 27, 2014 2:00-4:00pm
 
-2:00-4:00pm
+### Notes: <http://thewc.co/s/csf2014>
 
-Susan Buck / [Women's Coding Collective](http://thewc.co) @WeAreWCC
+### Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
-Notes: http://thewc.co/s/
+
 
 ## Code Editors
 * What is a code editor?
