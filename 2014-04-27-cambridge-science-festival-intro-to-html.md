@@ -25,7 +25,7 @@ Notes: http://thewc.co/s/
 ## Your first web page
 
 1. Copy the following code into a blank document in Sublime
-2. Save the file as practice.html to somewhere accessible like your Documents or Desktop
+2. Save the file as `practice.html` to somewhere accessible like your Documents or Desktop
 3. Once the file is saved, right click in Sublime and choose *Open in browser*
 
 ~~~~
@@ -48,31 +48,38 @@ Notes: http://thewc.co/s/
 </html>
 ~~~~
 
-### doctype
+### `<!DOCTYPE html>`
 Doctype gives the browser information about the kind of HTML you're writing so it knows how to render it. There are many kind of doctypes, but here we're using the latest HTML5 doctype.
 
-### Head
+### `<head>`
 The head element of the page is where you specify behind the scenes information about your page, not anything that actually gets rendered on the page. 
 
 In this template, we start off the head with the `<meta charset='utf-8'>` element followed by the `<title>` element.
 
-
-### Body
+### `<body>`
 The body is where content content of your page goes.
 
 
 
 
-## Non-void Elements
-Some elements surround content. When they do, they have a start tag and an end tag.
-Here the [emphasis element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em) surrounds text to indicate emphasis.
+
+
+## Tag basics
+Tags are used to surround content, for example, here's a heading tag:
 
 	<h1>Welcome to Susan's Web Site</h1>
 
 The forward slash in the second tag indicates it's the **end tag**.
+
+**Practice:** Add a heading to your web page in the `<body>` element.
+
+
+
+
 	
 ## Tag teamwork
-Some tags work together with other tags
+Some tags work together with other tags.
+
 An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
 
 	Here are some of my favorite web sites:
@@ -83,52 +90,54 @@ An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 	  <li>Tumblr</li>
 	</ul>
 
+**Practice:** Add a list of your three favorite websites below your heading element.
 
 
-## Attributes
+
+
+## Links
 Some start tags have **attributes** to describe information about that element.
 
 Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) i.e., links) has the `href` attribute which dictates where a link should go.
 
+	<a href='http://wikipedia.org'>The Free Encyclopedia</a>
 
-~~~~
-<a href='http://wikipedia.org'>The Free Encyclopedia</a>
-~~~~
 
 `target` might specify a link should open in a new tab
 
-~~~~
-<a href='http://google.com' target='_blank'>The Free Encyclopedia</a>
-~~~~
+	<a href='http://google.com' target='_blank'>The Free Encyclopedia</a>
+
 
 **Practice:** Edit your unordered list so that each of your favorite web sites includes a link to that website.
 
 
-Images have a `src` attribute to specify the image's location
 
-~~~~
-<img src='http://placekitten.com/200/200'>
-~~~~
+## Images
+
+Images have a `src` attribute to specify the image's location.
+
+	<img src='kitten.png'>
 
 The `alt` attribute is required for non-decorative images:
 
-~~~~
-<img src='http://placekitten.com/200/200' alt='Adorable kitten'>
-~~~~
+	<img src='kitten.png' alt='An adorable kitten'>
 
-### Practice
 
-Find an image on Wikipedia of your favorite animal.
+**Practice 1:** Find an image on Wikipedia of your favorite animal.
 
-Right click on that image and find the option to *Copy Image Url...*; this will copy the path to the image.
+Right click on that image and find the option to copy the image URL. 
 
-Create an image on your page and paste in the URL.
+* Chrome: *Copy Image URL* 
+* Firefox: *Copy Image Location*
+* Safari: *Copy Image Address*
+
+On your page, use this URL to display the image in an `<img>` element.
 
 Example:
 
-	<img src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
+	<img alt='Adorable kitten' src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
 
-Now, using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
+**Practice 2:** Using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
 
 
 ## Adding style
@@ -173,11 +182,11 @@ Web hosting gives you a place to store your work online, where the rest of the w
 
 Example: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
 
-For this class, we'll use the free web site playground, NeoCities.
+For this class, we'll use the free web site playground, [NeoCities](https://neocities.org).
 
 1. Create an account at Neocities: <https://neocities.org>.
-2. In Neocities, find the option to edit your index.html file.
-3. In this file, paste in the code you've created in this class.
+2. In Neocities, find the option to edit your `index.html` file.
+3. In `index.html`, paste in the code you've created in this class.
 4. View your finished product at `http://your-username.neocities.org`
 
 
