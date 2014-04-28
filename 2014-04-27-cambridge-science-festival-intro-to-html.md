@@ -7,66 +7,20 @@ Cambridge Science Festival - April 27, 2014 2:00-4:00pm
 ### Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
 
-
-## Code Editors
-* What is a code editor?
-* <http://sublimetext.com>
-* Some benefits of a code editor
-	* Line numbers
-	* Syntax highlighting
-
-### CodePen <http://codepen.io>
-
-
-## What is HTML?
+## HTML: The code behind web pages
 * All web pages are made up of HTML
 * Tour via View Source
 * The role of CSS
 * [MDN Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement)
 
 
-
-
-## Your first web page
-
-1. Copy the following code into a blank document in Sublime
-2. Save the file as `practice.html` to somewhere accessible like your Documents or Desktop
-3. Once the file is saved, right click in Sublime and choose *Open in browser*
-
-~~~~
-<!DOCTYPE html>
-<html>
-<head>
-
-	<meta charset='utf-8'>
-	
-	<title>My Web Site</title>		
-
-</head>
-
-<body>
-
-	<h1>Hello World!</h1>
- 
-</body>
-
-</html>
-~~~~
-
-### `<!DOCTYPE html>`
-Doctype gives the browser information about the kind of HTML you're writing so it knows how to render it. There are many kind of doctypes, but here we're using the latest HTML5 doctype.
-
-### `<head>`
-The head element of the page is where you specify behind the scenes information about your page, not anything that actually gets rendered on the page. 
-
-In this template, we start off the head with the `<meta charset='utf-8'>` element followed by the `<title>` element.
-
-### `<body>`
-The body is where content content of your page goes.
-
-
-
-
+## Code Editors
+* What is a code editor?
+* Application: Sublime <http://sublimetext.com>
+* Browser based: CodePen <http://codepen.io>
+* Some benefits of a code editor
+	* Line numbers
+	* Syntax highlighting
 
 
 ## Tag basics
@@ -76,7 +30,7 @@ Tags are used to surround content, for example, here's a heading tag:
 
 The forward slash in the second tag indicates it's the **end tag**.
 
-**Practice:** Add a heading to your web page in the `<body>` element.
+**Practice:** Add a heading and a subheading in the HTML panel of CodePen.
 
 
 
@@ -95,7 +49,7 @@ An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 	  <li>Tumblr</li>
 	</ul>
 
-**Practice:** Add a list of your three favorite websites below your heading element.
+**Practice:** Add a list of your three favorite websites below your headings.
 
 
 
@@ -106,7 +60,6 @@ Some start tags have **attributes** to describe information about that element.
 Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) i.e., links) has the `href` attribute which dictates where a link should go.
 
 	<a href='http://wikipedia.org'>The Free Encyclopedia</a>
-
 
 `target` might specify a link should open in a new tab
 
@@ -151,25 +104,21 @@ CSS stands for Cascading Style Sheets.
 
 CSS is a way to describe how the content on your page should look.
 
-In the `<head>` of your page, add the following CSS code:
-
-	<style>
-		
-		body {
-			background-color:Orange;
-			color:white;
-		}
-		
-		h1 {
-			font-family:Georgia;
-		}
-		
-		img {
-			border:1px solid black;
-			padding:5px;
-		}
+In the CSS Panel of CodePen, add the following CSS code:
 	
-	</style>
+	body {
+		background-color:Orange;
+		color:white;
+	}
+	
+	h1 {
+		font-family:Georgia;
+	}
+	
+	img {
+		border:1px solid black;
+		padding:5px;
+	}
 
 CSS is made up of `property:value` pairs assigned to HTML elements.
 
