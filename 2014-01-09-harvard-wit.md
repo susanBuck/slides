@@ -1,5 +1,3 @@
-{ "isolate" : "true" }
-
 ## Intro
 
 What was the last thing you learned that really made you struggle?
