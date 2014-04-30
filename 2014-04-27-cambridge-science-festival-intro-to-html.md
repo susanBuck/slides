@@ -2,19 +2,19 @@
 
 Cambridge Science Festival - April 27, 2014 2:00-4:00pm
 
-### Notes: <http://thewc.co/s/csf2014>
+## Notes: <http://thewc.co/s/csf2014>
 
-### Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
+## Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
 
-## HTML: The code behind web pages
+# HTML: The code behind web pages
 * All web pages are made up of HTML
 * Tour via View Source
 * The role of CSS
 * [MDN Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement)
 
 
-## Code Editors
+# Code Editors
 * What is a code editor?
 * Application: Sublime <http://sublimetext.com>
 * Browser based: CodePen <http://codepen.io>
@@ -23,7 +23,7 @@ Cambridge Science Festival - April 27, 2014 2:00-4:00pm
 	* Syntax highlighting
 
 
-## Tag basics
+# Tag basics
 Tags are used to surround content, for example, here's a heading tag:
 
 	<h1>Welcome to Susan's Web Site</h1>
@@ -36,7 +36,7 @@ The forward slash in the second tag indicates it's the **end tag**.
 
 
 	
-## Tag teamwork
+# Tag teamwork
 Some tags work together with other tags.
 
 An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
@@ -54,7 +54,7 @@ An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 
 
 
-## Links
+# Links
 Some start tags have **attributes** to describe information about that element.
 
 Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) i.e., links) has the `href` attribute which dictates where a link should go.
@@ -70,7 +70,7 @@ Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/W
 
 
 
-## Images
+# Images
 
 Images have a `src` attribute to specify the image's location.
 
@@ -98,7 +98,7 @@ Example:
 **Practice 2:** Using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
 
 
-## Adding style
+# Adding style
 
 CSS stands for Cascading Style Sheets.
 
@@ -128,7 +128,7 @@ These `property:value` pairs are called **declarations**.
 	
 	
 
-## Going live
+# Going live
 
 Right now you're the only one that can view your web page&mdash; let's change that!
 
