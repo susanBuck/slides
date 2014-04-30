@@ -2,9 +2,9 @@
 
 Cambridge Science Festival - April 27, 2014 2:00-4:00pm
 
-## Notes: <http://thewc.co/s/csf2014>
+Notes: <http://thewc.co/s/csf2014>
 
-## Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
+Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
 
 # HTML: The code behind web pages
