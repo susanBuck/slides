@@ -1,14 +1,19 @@
-## So you want to be a developer...
+## So you want to be a web developer...
+
+URL For these notes: <http://thewc.co/s/nerd-keynote>
 
 [Susan Buck](http://susanbuck.net) (susan@thewc.co)
 
 [Women's Coding Collective](http://thewc.co) / [@WeAreWCC](https://twitter.com/wearewcc)
 
-What I do: Teaching people about web development.
+What I do: Teach people about web development.
 
 As one would expect, this leads to lots of calls for advice: How do I get into this field?
 
 This is my roadmap...
+
+
+
 
 ## Understand the field
 
@@ -23,6 +28,13 @@ What do web developers do?
 * App dev
 * Sysadmin, design, interface, project manager, bookkeeper, accountant, therapist, etc.
 
+Generalist vs. Specialist food for thought:
++ [Becoming Truly Full-Stack is Unrealistic, But You Should Try](http://www.sitepoint.com/becoming-truly-full-stack-unrealistic-try/)
++ [Skills for Front-End Developers](http://www.impressivewebs.com/skills-front-end-developers/)
+
+
+
+
 ## Think about where you want to work
 
 * Freelancing/Solopreneur
@@ -30,20 +42,19 @@ What do web developers do?
 	* [Tiny Blue Orange](http://tinyblueorange.com/)
 	* [WordPress SuperService](http://www.wpsuperservice.com/)
 * Web Shop or Studio
-	* [P'unk Ave](http://punkave.com/)
 	* [Digital Loom](http://www.digital-loom.com/)
-	* [Ghostly Ferns](http://ghostlyferns.com/)
 	* [We Are Branch](http://www.wearebranch.com/)
-* In-House Developers for Non-Tech Companies
-	* [The Nerdery](http://nerdery.com/jobs)
-	* [LivingSocial](https://corporate.livingsocial.com/careers/browse-all-jobs/?deep_link=/jobs/search?category=Engineering+-+Software+Development)
-	* [Photojojo](http://photojojo.com/jobs/)
-* Web Developers/Engineers for Tech Companies
-	* [HubSpot](http://hubspot.com/)
-	* [RunKeeper](http://runkeeper.com/)
-	* [PlateJoy](http://platejoy.com/)
+	* [Ghostly Ferns](http://ghostlyferns.com/)
+* In-House Developers for Companies
+	* [Photojojo Jobs](http://photojojo.com/jobs/)
+	* [Etsy Jobs](https://www.etsy.com/careers/)
+	* [LivingSocial Jobs](https://corporate.livingsocial.com/careers/browse-all-jobs/?deep_link=/jobs/search?category=Engineering+-+Software+Development)
 
-## Learn
+
+
+
+## Continuing Education
+
 * Traditional academic programs
 	* [Harvard Extension School](http://extension.harvard.edu/)
 	* [UMass Online](http://www.umassonline.net/)
