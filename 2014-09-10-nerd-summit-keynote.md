@@ -66,7 +66,7 @@ Examples of each
 * Register your domain, preferrably with your own name in it.
 * Set up your personalized email.
 * [Read this PDF](http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf) and make sure your site follows the best practices outlined.
-* 147 websites
+* Inspiration: [180 websites in 180 days](http://jenniferdewalt.com/)
 
 ## Get a job and/or clients
 * Job postings
