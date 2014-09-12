@@ -71,7 +71,7 @@ Generalist vs. Specialist food for thought:
 
 
 ## Start making things
-* Inspiration: [180 websites in 180 days](http://jenniferdewalt.com).
+* Inspiration: [180 websites in 180 days](http://jenniferdewalt.com)
 
 
 
