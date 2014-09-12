@@ -1,6 +1,6 @@
 ## Intro
 
-Notes: <http://thewc.co/s/csf2014>
+URL For these notes: <http://thewc.co/s/nerd-html-css>
 
 Susan Buck (susan@thewc.co) / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
@@ -116,7 +116,7 @@ CSS is a way to describe how the content on your page should look.
 
 In the CSS Panel of CodePen, add the following CSS code:
 	
-```
+```css
 body {
 	background-color:Orange;
 	color:white;
