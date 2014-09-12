@@ -7,19 +7,12 @@ Susan Buck (susan@thewc.co) / [Women's Coding Collective](http://thewc.co) / @We
 
 # HTML: The code behind web pages
 * All web pages are made up of HTML
-* Tour via View Source
+* *View Source* on <http://phpwomen.org>
 * The role of CSS
-* [MDN Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement)
-
 
 # Code Editors
-* What is a code editor?
 * Application: Sublime <http://sublimetext.com>
 * Browser based: CodePen <http://codepen.io>
-* Some benefits of a code editor
-	* Line numbers
-	* Syntax highlighting
-
 
 # Tag basics
 Tags are used to surround content, for example, here's a heading tag:
@@ -29,6 +22,8 @@ Tags are used to surround content, for example, here's a heading tag:
 ```
 
 The forward slash in the second tag indicates it's the **end tag**.
+
+More tags: [MDN Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement)
 
 **Practice:** Add a heading and a subheading in the HTML panel of CodePen.
 
@@ -47,7 +42,7 @@ An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/El
 <ul>
   <li>Google</li>
   <li>Women's Coding Collective</li>
-  <li>Tumblr</li>
+  <li>Mozilla Developer Network</li>
 </ul>
 ```
 
@@ -137,12 +132,17 @@ CSS is made up of `property:value` pairs assigned to HTML elements.
 These `property:value` pairs are called **declarations**.
 
 [CSS reference list](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-	
+
+**Practice:** 
+
+* Change the background-color of the `h1` elements to yellow.
+* Add `5px` of padding to the image. 
+* Add one other style property from the reference list to any of the elements on your page.	
 	
 
 # Going live
 
-Right now you're the only one that can view your web page&mdash; let's change that!
+Right now you're the only one that can view your web page&mdash; let's change that.
 
 Web hosting gives you a place to store your work online, where the rest of the world can access it.
 

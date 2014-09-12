@@ -1,12 +1,8 @@
-# So you want to be a developer...
+## So you want to be a developer...
 
-## Intro
-
-[Susan Buck](http://susanbuck.net)
+[Susan Buck](http://susanbuck.net) (susan@thewc.co)
 
 [Women's Coding Collective](http://thewc.co) / [@WeAreWCC](https://twitter.com/wearewcc)
-
-susan@thewc.co
 
 What I do: Teaching people about web development.
 
@@ -17,18 +13,18 @@ This is my roadmap...
 ## Understand the field
 
 Broad overview of the technologies:
-<img src='http://making-the-internet.s3.amazonaws.com/misc-puzzle.png' class='' style='max-width:780px; width:100%' alt='Pieces of the web development puzzle'>
+
+<img src='http://making-the-internet.s3.amazonaws.com/misc-puzzle.png' class='' style='max-width:1560px; width:100%' alt='Pieces of the web development puzzle'>
 
 What do web developers do?
 * Front-end
 * Back-end
 * Full stack
 * App dev
-* Etc.: sysadmin, design, interface, project management
+* Sysadmin, design, interface, project manager, bookkeeper, accountant, therapist, etc.
 
 ## Think about where you want to work
 
-Examples of each
 * Freelancing/Solopreneur
 	* [Zoe Rooney](http://zoerooney.com/)
 	* [Tiny Blue Orange](http://tinyblueorange.com/)
@@ -59,14 +55,24 @@ Examples of each
 	+ [Tuts+](http://code.tutsplus.com)
 	+ [Lynda](http://lynda.com/)
 	+ [Coursera](https://coursera.org/)
-	
 
 
-## Build your own site... Now.
-* Register your domain, preferrably with your own name in it.
-* Set up your personalized email.
+
+
+## Start making things
+* Inspiration: [180 websites in 180 days](http://jenniferdewalt.com).
+
+
+
+
+## Build your online presence
+* [Register your domain](http://www.namecheap.com/?aff=61057), preferrably with your own name in it.
+* [Set up your personalized email](http://www.google.com/enterprise/apps/business/) (ex: `mail@yourname.com`).
 * [Read this PDF](http://static.googleusercontent.com/media/www.google.com/en/us/webmasters/docs/search-engine-optimization-starter-guide.pdf) and make sure your site follows the best practices outlined.
-* Inspiration: [180 websites in 180 days](http://jenniferdewalt.com/)
+* Showcase your best work (quality over quantity).
+
+
+
 
 ## Get a job and/or clients
 * Job postings
