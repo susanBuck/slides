@@ -62,6 +62,9 @@ Generalist vs. Specialist food for thought:
 * Bootcamps
 	* [Startup Institute](http://www.startupinstitute.com/)
 	* [Launch Academy](http://www.launchacademy.com/)
+* Apprenticeships
+	* [Fresh Tilled Soil](http://www.freshtilledsoil.com/aux/)
+	* [Thoughtbot](http://www.apprentice.io/)
 * Self-study
 	+ [Tuts+](http://code.tutsplus.com)
 	+ [Lynda](http://lynda.com/)
