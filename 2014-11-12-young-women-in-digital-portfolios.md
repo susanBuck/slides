@@ -94,6 +94,8 @@ Your work alone does not always get you the job. You could have the most fantast
 + Resume/experience
 + Social media links
 + Blog
+
+### Maybe-haves?
 + Photo
 + Prices
 
@@ -103,7 +105,7 @@ Your work alone does not always get you the job. You could have the most fantast
 ## Showcase your work
 * Brief description 
 * Your role in the project (if it wasn't 100% you)
-* Outline the benefits the project had for the client
+* What were the results/gains?
 * Testimonials
 * Snapshots ([ex](http://varsity.is/))
 * Process breakdown (sketches, iterations)
@@ -112,6 +114,8 @@ Your work alone does not always get you the job. You could have the most fantast
 	* [Book: Show Your Work](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1398806408&sr=8-1&keywords=show+your+work)
 
 Example: <http://freshnotcanned.com>
+
+Quality over quantity
 
 Lacking work to showcase?
 
