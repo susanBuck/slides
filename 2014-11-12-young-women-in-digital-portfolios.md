@@ -8,7 +8,7 @@ Susan Buck (susan@thewc.co)
 
 Twitter: [@WeAreWcc](https://twitter.com/wearewcc)
 
-Short URL for this outline: <http://thewc.co/s/ywd-boston>
+Short URL for this outline: <http://thewc.co/s/ywd-2014>
 
 
 
