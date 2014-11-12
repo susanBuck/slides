@@ -1,16 +1,21 @@
-# Online Portfolio for Digital Marketers
+# Online Portfolios for Digital Marketers
 
-Wednesday, November 12, 2014
+Wednesday, November 12, 2014 6:40-7:30pm
 
 Susan Buck (susan@thewc.co)
 
-Women's Coding Collective (<http://thewc.co>)
+[Women's Coding Collective](http://thewc.co)
 
 Twitter: [@WeAreWcc](https://twitter.com/wearewcc)
 
+Short URL for this outline: <http://thewc.co/s/ywd-boston>
+
+
 
 ## Intros
-
++ Name
++ What you do
++ Do you have a portfolio?
 
 
 
@@ -86,7 +91,7 @@ Your work alone does not always get you the job. You could have the most fantast
 + Call to action
 + Your services
 + Examples/case studies
-+ Resume/work experience
++ Resume/experience
 + Social media links
 + Blog
 + Photo
@@ -100,10 +105,13 @@ Your work alone does not always get you the job. You could have the most fantast
 * Your role in the project (if it wasn't 100% you)
 * Outline the benefits the project had for the client
 * Testimonials
+* Snapshots ([ex](http://varsity.is/))
 * Process breakdown (sketches, iterations)
 	* [Jen Hayden logo iterations](http://blog.imbreannarose.com/process-01-jen-hayden/)
 	* [Chad Pugh's Science Machine](https://vimeo.com/927062)
 	* [Book: Show Your Work](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1398806408&sr=8-1&keywords=show+your+work)
+
+Example: <http://freshnotcanned.com>
 
 Lacking work to showcase?
 
@@ -150,15 +158,7 @@ Lacking work to showcase?
 
 
 
-## More examples...
-+ http://marketingaxle.com
-+ http://varsity.is
-+ http://soumyabishi.co
-+ http://madre.so
-+ http://freshnotcanned.com
-+ http://wastronauts.com
-
-## Even more...
+## Inspiration...
 * [foliofocus.com/tag/marketing](http://foliofocus.com/tag/marketing/)
 * [logopond.com](http://logopond.com)
 * [One Page Love](http://onepagelove.com)
