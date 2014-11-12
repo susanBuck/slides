@@ -75,15 +75,18 @@ Your work alone does not always get you the job. You could have the most fantast
 
 
 ## Content
-### Must-haves
+### Minimum requirements
 + Your name
 + Contact info
-+ Call to action
 + General location info
++ Some idea of who you are/what you do
 
 ### Might-haves
++ More indepth details about who you are/what you do
++ Call to action
 + Your services
 + Examples/case studies
++ Resume/work experience
 + Social media links
 + Blog
 + Photo
@@ -115,30 +118,20 @@ Lacking work to showcase?
 ## Technical Logistics
 
 ### Little/No coding required
-* <a href='http://carbonmade.com/'>Carbonmade</a>  
-Free: 5 projects, 35 images (ads)
-$12/mo: 50 projects, 500 images, custom domain
-
-* [Simple, trackable resume builder](http://resume.io/) Free
-
+* <a href='http://carbonmade.com/'>Carbonmade</a> ([Pricing](https://carbonmade.com/pricing))
 * <a href='http://prosite.com/'>ProSite by Behance</a>  
-$11/mo Unlimited space, connects to Behance, custom domain
-
-* <a href='http://krop.com/creativedatabase/'>Krop</a>  
-Free: 10 image limit  
-$9/mo: Unlimited images, custom domain
-
+* <a href='http://weebly.com/'>Weebly</a>
+* <a href='http://krop.com/creativedatabase/'>Krop</a>
+* [SquareSpace](http://squarespace.com) ([Pricing](http://squarespace.com/pricing))
+* [Resume.io](http://resume.io/) (Free)
 * <a href='http://About.me'>About.me</a>  
-Make it easy for people to learn about you (more of an online business card than a portfolio). Good if you don't have specific work to show.
+* <a href='http://tumblr.com'>Tumblr</a> (Free)
+* <a href='http://wordpress.com'>WordPress.com</a> or <a href='http://wordpress.org'>WordPress.org</a>
 
-* <a href='http://tumblr.com'>Tumblr</a>  
-Free; Mostly a blogging-esque platform, but very efficient for sharing content.
 
-* <a href='http://wordpress.com'>WordPress.com</a>
-Free limited version. Upgraded version @ $99 per year.
-
-### Build your own
+### Code your own
 * Hosting: [SiteGround](http://goo.gl/473OyI)
+* [Templates](https://creativemarket.com/templates/websites)
 
 ### Domains
 * Domain names: [Hover](http://hover.com/wcc)
@@ -169,6 +162,7 @@ Free limited version. Upgraded version @ $99 per year.
 * [foliofocus.com/tag/marketing](http://foliofocus.com/tag/marketing/)
 * [logopond.com](http://logopond.com)
 * [One Page Love](http://onepagelove.com)
+* [Behance Examples](https://prosite.com/home/examples)
 
 ## Useful reads..
 * <a href='http://www.smashingmagazine.com/2009/09/17/portfolio-design-study-design-patterns-and-current-practices/'>Smashing Mag's Portfolio Design Patterns & Current Practices</a>
