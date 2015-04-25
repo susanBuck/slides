@@ -1,8 +1,8 @@
 # Intro to HTML for Girls & Their Moms--or Grandmas, Aunts, Big Sisters, etc.
 
-Cambridge Science Festival - April 27, 2014 2:00-4:00pm
+Cambridge Science Festival - April 25, 2015 2:00-4:00pm
 
-Notes: <http://thewc.co/s/csf2014>
+Notes: <http://thewc.co/s/csf2015>
 
 Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
