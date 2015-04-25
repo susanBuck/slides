@@ -26,7 +26,9 @@ Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 # Tag basics
 Tags are used to surround content, for example, here's a heading tag:
 
-	<h1>Welcome to Susan's Web Site</h1>
+```html
+<h1>Welcome to Susan's Web Site</h1>
+```
 
 The forward slash in the second tag indicates it's the **end tag**.
 
@@ -61,11 +63,15 @@ Some start tags have **attributes** to describe information about that element.
 
 Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) i.e., links) has the `href` attribute which dictates where a link should go.
 
-	<a href='http://wikipedia.org'>The Free Encyclopedia</a>
+```html
+<a href='http://wikipedia.org'>The Free Encyclopedia</a>
+```
 
 `target` might specify a link should open in a new tab
 
-	<a href='http://google.com' target='_blank'>The Free Encyclopedia</a>
+```html
+<a href='http://google.com' target='_blank'>The Free Encyclopedia</a>
+```
 
 
 **Practice:** Edit your unordered list so that each of your favorite web sites includes a link to that website.
@@ -76,11 +82,15 @@ Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/W
 
 Images have a `src` attribute to specify the image's location.
 
-	<img src='kitten.png'>
+```html
+<img src='kitten.png'>
+```
 
 The `alt` attribute is required for non-decorative images:
 
-	<img src='kitten.png' alt='An adorable kitten'>
+```html
+<img src='kitten.png' alt='An adorable kitten'>
+```
 
 
 **Practice 1:** Find an image on Wikipedia of your favorite animal.
@@ -95,7 +105,9 @@ On your page, use this URL to display the image in an `<img>` element.
 
 Example:
 
-	<img alt='Adorable kitten' src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
+```html
+<img alt='Adorable kitten' src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
+```
 
 **Practice 2:** Using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
 
@@ -108,19 +120,21 @@ CSS is a way to describe how the content on your page should look.
 
 In the CSS Panel of CodePen, add the following CSS code:
 	
-	body {
-		background-color:Orange;
-		color:white;
-	}
-	
-	h1 {
-		font-family:Georgia;
-	}
-	
-	img {
-		border:1px solid black;
-		padding:5px;
-	}
+```css
+body {
+	background-color:Orange;
+	color:white;
+}
+
+h1 {
+	font-family:Georgia;
+}
+
+img {
+	border:1px solid black;
+	padding:5px;
+}
+```
 
 CSS is made up of `property:value` pairs assigned to HTML elements.
 
