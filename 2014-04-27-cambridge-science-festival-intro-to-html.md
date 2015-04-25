@@ -41,13 +41,15 @@ Some tags work together with other tags.
 
 An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
 
-	Here are some of my favorite web sites:
+```html
+Here are some of my favorite web sites:
 
-	<ul>
-	  <li>Google</li>
-	  <li>Women's Coding Collective</li>
-	  <li>Tumblr</li>
-	</ul>
+<ul>
+  <li>Google</li>
+  <li>Women's Coding Collective</li>
+  <li>Tumblr</li>
+</ul>
+```
 
 **Practice:** Add a list of your three favorite websites below your headings.
 
