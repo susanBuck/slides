@@ -22,6 +22,7 @@ Where are the rulebooks?
 
 
 
+
 ## How engines work
 Crawler-based search engines
 
@@ -37,6 +38,7 @@ Example:
 
 
 
+
 ## Title Element
 
 `<title>`
@@ -44,16 +46,14 @@ Example:
 * In head of your HTML document; describes the content of the page
 * Google uses the title for context and to label your results
 
+```html
 <img src='http://making-the-internet.s3.amazonaws.com/seo-title-tag.png'>
+```
 
 * Use different titles for different pages - don't just repeat across your site
-
 * Be descriptive yet concise; you have about **60-70 characters** to convey your message.
-
 * Incorporate keywords you want people to use to find you.
-
 * Don't waste space: "Official website", "very", "best", "really"
-
 * Whether you include your name / company name depends on your audience target
 
 ## Meta tags
@@ -62,7 +62,7 @@ Example:
 * Never displayed on the page
 * There are different meta tags, including description:
 
-````
+```html
 <meta name="description" content="Bella Balloons provides Ohio Hot Air Balloon Rides, Cincinnati Hot Air Balloon Rides, and Dayton Hot Air Balloon Rides.">
 ````
 
@@ -75,25 +75,31 @@ Example:
 * Keywords meta tag is no longer used
 
 
-## Headings
 
+
+## Headings
 * Heading elements (`<h1>`, `<h2>`, etc.) - not just for styling
 * Clue to search engine what your site is about
 * Like title and meta tags, you want to be sure your headings include relevant keywords where necessary
 
-## Links
 
+
+
+## Links
 <img src='http://making-the-internet.s3.amazonaws.com/seo-good-bad-links.png'>
 
-* Never say "Click here"&mdash; waste of link power 
+* Don't say "Click here"&mdash; waste of link power 
 * Links are how Google bots crawl through your site
 * Google pays a lot of attention to anchor text
 * [Remove `www` from URLs](https://gist.github.com/susanBuck/9240424)
 
 
+
+
 ## Images
 * Use alt attributes for all your non-decorative images.
 * Use descriptive file names: `logo4.jpg` vs. `bella-balloons-logo.jpg`
+
 
 
 

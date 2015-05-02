@@ -7,17 +7,19 @@ HTML is a markup language consisting of about 100 tags describing the structure 
 
 [HTML Element reference](https://developer.mozilla.org/en/HTML/Element)
 
-	<!DOCTYPE html>
-	
-	<html>
-	<head>
-		<title>Practice</title>
-	</head>
-	<body>
-	
-	</body>
-	
-	</html>
+```html
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Practice</title>
+</head>
+<body>
+
+</body>
+
+</html>
+```
 
 But this is only half the picture; HTML alone is insufficient since all it does is describe the content of a page - this is a footer, this is a paragraph, this is a list, this is the body, etc.
 
@@ -25,8 +27,8 @@ The missing piece of the puzzle is CSS to add style.
 
 
 ## What is CSS?
-* CSS stands for Cascading Style Sheets.
-* CSS is a way to describe how the content on your page should look.
+* Cascading Style Sheets
+* CSS is a way to describe how the content on your page should look
 
 
 
@@ -53,23 +55,25 @@ There are three ways you can incorporate CSS into your HTML code:
 
 This is the HTML code we'll be applying styles to: 
 
-	<h1>Monies</h1>
+```html
+<h1>Statement</h1>
 	
-	<h2>March 2014</h2>
-	<div class='income'>$200</div>
-	<div class='expenses'>$100</div>
+<h2>March 2014</h2>
+<div class='income'>$200</div>
+<div class='expenses'>$100</div>
 	
-	<h2>February 2014</h2>
-	<div class='income'>$450</div>
-	<div class='expenses'>$240</div>
+<h2>February 2014</h2>
+<div class='income'>$450</div>
+<div class='expenses'>$240</div>
 	
-	<h2>January 2014</h2>
-	<div class='income'>$150</div>
-	<div class='expenses'>$530</div>
-	
+<h2>January 2014</h2>
+<div class='income'>$150</div>
+<div class='expenses'>$530</div>
+```
+
 Tasks: 
 
-* Make the h1 have a light grey background with a little bit of padding
+* Make the `<h1>`s have a light grey background with a little bit of padding
 * Make the income lines green
 * Make the expenses line red
 * Make both the income and expenses line a mono-spaced font
@@ -99,7 +103,7 @@ Approach the design from the outside in&mdash; specifically by beginning with th
 
 You don't have match the exact width, height, font sizes or shades of color; just try to get as close as you can.
 
-Think about using the best tag and selector for the job. For example, if you have a large heading, an  h1 tag would be more spot-on than a generic div tag.
+Think about using the best tag and selector for the job. For example, if you have a large heading, an h1 tag would be more spot-on than a generic div tag.
 
 This exercise is designed to get you digging through the [CSS reference list](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference); you'll want to look into some properties we haven't covered yet such as margin, padding and styling links.
 
