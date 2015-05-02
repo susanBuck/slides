@@ -81,12 +81,13 @@ For example:
 var my_name = 'Francis';	
 var results = 'Tie!';	
 var age = 30;
+```
 
 In JavaScript, variables always start with the keyword `var`.
 	
 	
 	
----
+	
 ### Random numbers
 
 Here's the line of JavaScript that will generate either a 0, 1 or 2 (three numbers total):
