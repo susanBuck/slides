@@ -11,9 +11,8 @@ Short URL for these notes: http://thewc.co/s/gg2015
 
 $17 off discount code for your first online course: `gg-rocks-2015`
 
-Twitter & Instagram: `@wearewcc`.
+Twitter & Instagram: `@wearewcc`
 
-<br><br>
 ### Susan Buck
 
 @susanbuck 
