@@ -1,114 +1,110 @@
-## Code Editors
-* What is a code editor?
-* <http://sublimetext.com>
-* Basic usage and workflow
-
-	* Save your file with a .html extension
-	* Right click in the Sublime window and choose "Open in browser..."
-	* Refresh the browser whenever you save changes in Sublime
-
-* For this workshop we'll use <http://codepen.io>
-
-
-## What is HTML?
+## HTML: The code behind web pages
 * All web pages are made up of HTML
 * Tour via View Source
 * The role of CSS
-* Element makeup
-
-
-## Non-void Elements
-Some elements surround content. When they do, they have a start tag and an end tag.
-Here the [emphasis element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em) surrounds text to indicate emphasis.
-
-	Registration forms are due <em>August 9th</em>.
-
-The forward slash in the second tag indicates it's the **end tag**.
-
-## Void Elements
-Other elements don't surround content, they live all by themselves.
-Here the [break element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br) is used on its own to add new lines:
-
-	First, I'll go to the store<br>
-	Then, I'll go to the movies<br>
-	Finally, I'll take a nap<br>
-	
-	
-## Tag teamwork
-Some tags work together with other tags
-An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
-
-	Some of my favorite things about Philadelphia (in no particular order)
-
-	<ul>
-	  <li>The Phillies</li>
-	  <li>Great restaurants</li>
-	  <li>Wissahickon Park</li>
-	  <li>All those great potholes</li>
-	</ul>
-
-Or the `<ol>` (ordered list)
-
-	My favorite things about Philadelphia, in order from most to least
-
-	<ol>
-	  <li>The Phillies</li>
-	  <li>Great restaurants</li>
-	  <li>Wissahickon Park</li>
-	  <li>All those great potholes</li>
-	</ol>
-
-
-## Reference
-
 * [MDN Element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element?redirectlocale=en-US&redirectslug=HTML%2FElement)
 
 
-
-## Practice
-* Use nesting to combine `<a>` and `<img>` to create an image that is a link. For example, show a picture of a kitten that when clicked, takes you to the wikipedia page about kittens.
-
-
-
-## Document structure
-
-We've talked a lot about individual elements with specific tasks, but HTML plays in a bigger role in structuring the page as a whole.
-
-For every HTML page you build, there's a basic template you'll follow:
-
-	<!DOCTYPE html>
-	<html>
-	<head>
-	
-		<meta charset='utf-8'>
-		
-		<title>My Web Site</title>		
-
-	</head>
-	
-	<body>
-	
-	  <!-- CONTENT TO BE DISPLAYED GOES HERE IN THE BODY -->
-	 
-	</body>
-	
-	</html>
-	
-
-Let's break this down...
-
-### doctype
-Doctype gives the browser information about the kind of HTML you're writing so it knows how to render it. There are many kind of doctypes, but here we're using the latest HTML5 doctype.
-
-### Head
-The head element of the page is where you specify behind the scenes information about your page, not anything that actually gets rendered on the page. 
-
-In this template, we start off the head with the `<meta charset='utf-8'>` element followed by the `<title>` element.
+## Code Editors
+* What is a code editor?
+* <http://sublimetext.com>
+* For this workshop we'll use <http://codepen.io>
 
 
-### Body
-The body is where content content of your page goes.
+# Tag basics
+Tags are used to surround content, for example, here's a heading tag:
 
-### Comments
-The `<!-- -->` syntax is used for HTML comments.
-Use them to organize your code, leave reminders for yourself, etc.
+```html
+<h1>Welcome to Susan's Web Site</h1>
+```
+
+The forward slash in the second tag indicates it's the **end tag**.
+
+**Practice:** Add a heading and a subheading in the HTML panel of CodePen.
+
+
+# Tag teamwork
+Some tags work together with other tags.
+
+An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
+
+```html
+Here are some of my favorite web sites:
+
+<ul>
+  <li>Google</li>
+  <li>Women's Coding Collective</li>
+  <li>Tumblr</li>
+</ul>
+```
+
+**Practice:** Add a list of your three favorite websites below your headings.
+
+
+# Links
+Some start tags have **attributes** to describe information about that element.
+
+Example, the `<a>` element ([anchors](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a) i.e., links) has the `href` attribute which dictates where a link should go.
+
+```html
+<a href='http://wikipedia.org'>The Free Encyclopedia</a>
+```
+
+`target` might specify a link should open in a new tab
+
+```html
+<a href='http://google.com' target='_blank'>The Free Encyclopedia</a>
+```
+
+
+**Practice:** Edit your unordered list so that each of your favorite web sites includes a link to that website.
+
+
+# Images
+
+Images have a `src` attribute to specify the image's location.
+
+```html
+<img src='kitten.png'>
+```
+
+The `alt` attribute is required for non-decorative images:
+
+```html
+<img src='kitten.png' alt='An adorable kitten'>
+```
+
+**Practice 1:** Find an image on Wikipedia of your favorite animal.
+
+Right click on that image and find the option to copy the image URL. 
+
+* Chrome: *Copy Image URL* 
+* Firefox: *Copy Image Location*
+* Safari: *Copy Image Address*
+
+On your page, use this URL to display the image in an `<img>` element.
+
+Example:
+
+```html
+<img alt='Adorable kitten' src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
+```
+
+**Practice 2:** Using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
+
+
+# Going live
+
+Right now you're the only one that can view your web page&mdash; let's change that!
+
+Web hosting gives you a place to store your work online, where the rest of the world can access it.
+
+Example: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
+
+For this class, we'll use the free web site playground, [NeoCities](https://neocities.org).
+
+1. Create an account at Neocities: <https://neocities.org>.
+2. In Neocities, find the option to edit your `index.html` file.
+3. In `index.html`, paste in the code you've created in this class.
+4. View your finished product at `http://your-username.neocities.org`
+
