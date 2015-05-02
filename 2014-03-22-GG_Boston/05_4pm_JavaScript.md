@@ -2,6 +2,8 @@
 For this workshop we'll be working in <http://codepen.io>
 
 
+
+
 ## What is JavaScript?
 [Web Development Puzzle](http://making-the-internet.s3.amazonaws.com/misc-puzzle.png)
 
@@ -47,8 +49,6 @@ Quick Facts:
 -->
 
 
----
-
 ### Files
 
 * Rock file: `http://misc001.s3.amazonaws.com/rock.png`
@@ -56,13 +56,13 @@ Quick Facts:
 * Scissors file: `http://misc001.s3.amazonaws.com/scissors.png`
 
 
-
----
 ### HTML Images
 
 This is what the code looks like to create an image in HTML:
 
-	<img src='http://misc001.s3.amazonaws.com/rock.png' id='rock' class='piece'>
+```html
+<img src='http://misc001.s3.amazonaws.com/rock.png' id='rock' class='piece'>
+```
 
 `src`, `id` and `class` are all attributes of this image.
 
@@ -71,18 +71,16 @@ Id is a unique identifier...kind of like your first name.
 Class is an identifier that multiple elements can share...kind of like your last name.
 
 
----
 ### Variables
 
 Variables are used in programming to remember bits of information.
 
 For example:
 
-	var my_name = 'Susan';
-	
-	var results = 'Tie!';
-	
-	var age = 29;
+```js
+var my_name = 'Francis';	
+var results = 'Tie!';	
+var age = 30;
 
 In JavaScript, variables always start with the keyword `var`.
 	
@@ -93,69 +91,79 @@ In JavaScript, variables always start with the keyword `var`.
 
 Here's the line of JavaScript that will generate either a 0, 1 or 2 (three numbers total):
 
-	Math.floor(Math.random()*3);
+```js
+Math.floor(Math.random()*3);
+```
 
 
 
 ---
 ### Change the image path
 
-	$('#computer').attr('src','http://misc001.s3.amazonaws.com/rock.png');
-	
+```js
+$('#computer').attr('src','http://misc001.s3.amazonaws.com/rock.png');
+```
 
 
----
 ### Get an attribute
 
-	var players_move = $(this).attr('id');
+```js
+var players_move = $(this).attr('id');
+```
 
 
-
-
----
 ### Decisions making
 
 In programming, you can use *If statements* to get your code to make decisions...
 
-	if(grade >= 90) {
-		var letter_grade = 'A';
-	}
-	elseif(grade >= 80 AND < 90) {
-		var letter_grade = 'B';
-	}
-	elseif(grade >= 70 AND < 80) {
-		var letter_grade = 'C';
-	}
-	elseif(grade >= 60 AND < 70) {
-		var letter_grade = 'D';
-	}
-	elseif(grade < 60) {
-		var letter_grade = 'E';
-	}
+```js
+if(grade >= 90) {
+	var letter_grade = 'A';
+}
+elseif(grade >= 80 AND < 90) {
+	var letter_grade = 'B';
+}
+elseif(grade >= 70 AND < 80) {
+	var letter_grade = 'C';
+}
+elseif(grade >= 60 AND < 70) {
+	var letter_grade = 'D';
+}
+elseif(grade < 60) {
+	var letter_grade = 'E';
+}
+```
 
----
+
 ### Change contents
 
-	$('#results').html('You are the winner!');
-	
-	
----
+```js
+$('#results').html('You are the winner!');
+```
+
+
 ### Arrays
 
 Arrays are a more complex type of variable because they allow you to store multiple bits of information in them.
 
 Here's how we'd create an empty array called scenarios:
 
-	var scenarios = [];
+```js
+var scenarios = [];
+```
 
 We could then fill that array. For example, let's start with the rock(0) scenarios:
 
-	scenarios[0] = [];
+```js
+scenarios[0] = [];
+```
 	
 And then fill the rock scenarios with rock(0), paper(1), scissors (3):
 
-	scenarios[0][0] = 'Tie :-|';
-	scenarios[0][1] = 'Computer :-(';
-	scenarios[0][2] = 'You :-)';
+```js
+scenarios[0][0] = 'Tie :-|';
+scenarios[0][1] = 'Computer :-(';
+scenarios[0][2] = 'You :-)';
+```
 
 
