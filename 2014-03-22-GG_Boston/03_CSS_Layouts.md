@@ -115,9 +115,9 @@ it from that spot.
 	}
 </style>
 
-<img src='http://placekitten.com/130/130'>
-<img src='http://placekitten.com/130/130'>
-<img src='http://placekitten.com/130/130' id='thirdImage'>
+<img src='http://practice-pixels.s3.amazonaws.com/kitten_250x250.jpg'>
+<img src='http://practice-pixels.s3.amazonaws.com/kitten_250x250.jpg'>
+<img src='http://practice-pixels.s3.amazonaws.com/kitten_250x250.jpg' id='thirdImage'>
 ```
 
 
