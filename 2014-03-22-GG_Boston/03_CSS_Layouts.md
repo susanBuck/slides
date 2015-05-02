@@ -175,7 +175,6 @@ The site seems to "fill" the browser no matter how big it is.
 Examples:
 
 * <http://webtypography.net/intro/>
-* <http://www.marathonsports.com/>
 * <http://devdocs.io/>
 
 ### Responsive
