@@ -178,8 +178,8 @@ Examples:
 * <http://devdocs.io/>
 
 ### Responsive
-[The Boston Globe](http://www.bostonglobe.com/)
-[Happy Cog](http://happycog.com/)
++ [The Boston Globe](http://www.bostonglobe.com/)
++ [Happy Cog](http://happycog.com/)
 
 Not only does the site resize, it rearranges for optimal use of the space
 Replacement for having multiple versions of your site
