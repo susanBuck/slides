@@ -5,7 +5,9 @@ URL For these notes: <http://thewc.co/s/common-impact>
 
 Live broadcast: <http://thewc.co/live>
 
-Susan Buck (susan@thewc.co) / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
+Susan Buck (susan@thewc.co) / [Women's Coding Collective](http://thewc.co) / [@WeAreWCC](https://twitter.com/WeAreWCC)
+
+Patricia Vaccaro-Coburn / [Common Impact](http://commonimpact.org/) / [@CommonImpact](https://twitter.com/commonimpact)
 
 
 # HTML: The code behind web pages
