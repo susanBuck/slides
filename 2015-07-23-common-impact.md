@@ -17,7 +17,7 @@ Patricia Vaccaro-Coburn / [Common Impact](http://commonimpact.org/) / [@CommonIm
 
 
 # Code Editors
-* Application: Atom <https://atom.io/>
+* Application: Atom <https://atom.io>
 * Browser based: CodePen <http://codepen.io>
 
 
@@ -142,15 +142,6 @@ These `property:value` pairs are called **declarations**.
 
 # Going live
 
-Right now you're the only one that can view your web page&mdash; let's change that.
-
-Web hosting gives you a place to store your work online, where the rest of the world can access it.
-
-Example: [SiteGround](http://siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
-
-For this class, we'll use the free web site playground, [NeoCities](https://neocities.org).
-
-1. Create an account at Neocities: <https://neocities.org>.
-2. In Neocities, find the option to edit your `index.html` file.
-3. In `index.html`, paste in the code you've created in this class.
-4. View your finished product at `http://your-username.neocities.org`
++ [SiteGround](http://siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
++ [WordPress](http://wordpress.org)
++ [Site Builders](http://www.websitebuilderexpert.com)
