@@ -9,6 +9,7 @@ Susan Buck / [Women's Coding Collective](http://thewc.co) / [@WeAreWCC](https://
 
 Patricia Vaccaro-Coburn / [Common Impact](http://commonimpact.org/) / [@CommonImpact](https://twitter.com/commonimpact)
 
+Survey: <http://goo.gl/LSrcFA>
 
 # HTML: The code behind web pages
 * All web pages are made up of HTML
