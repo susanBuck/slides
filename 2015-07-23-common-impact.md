@@ -1,8 +1,9 @@
 # Beginner HTML & CSS for Nonprofits
+## Thursday, July 23, 2015 2:30-4:30pm
 
 URL For these notes: <http://thewc.co/s/common-impact>
 
-Thursday, July 23, 2015 2:30-4:30pm
+Live broadcast: <http://thewc.co/live>
 
 Susan Buck (susan@thewc.co) / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
