@@ -1,6 +1,6 @@
 # Beginner HTML & CSS for Nonprofits
 
-[More info...](http://www.eventbrite.com/e/beginner-html-css-for-nonprofits-with-womens-coding-collective-co-founder-susan-buck-registration-17542188157?aff=es2)
+URL For these notes: <http://thewc.co/s/common-impact>
 
 Thursday, July 23, 2015 2:30-4:30pm
 
