@@ -22,10 +22,37 @@ Early birds: If you arrive early, download, install and open <https://atom.io>
 
 
 
+
 ## Code Editors
 * What is a code editor?
 * Download, install: <https://atom.io>
-* Using Atom and viewing your first page
+
+
+
+
+## Our first page
+* Save the following code as `example.html` on your Desktop.
+* Load this file in your web browser
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title></title>
+	<meta charset='utf-8'>
+
+	<link rel='stylesheet' href='' type='text/css'>
+
+</head>
+<body>
+
+
+
+</body>
+</html>
+```
 
 
 
@@ -39,7 +66,7 @@ Tags are used to surround content, for example, here's a heading tag:
 
 The forward slash in the second tag indicates it's the **end tag**.
 
-**Practice:** Create a heading and a subheading.
+**Practice:** Create a heading and a subheading in the `<body></body>` of your page.
 
 
 
@@ -115,6 +142,40 @@ Example:
 
 **Practice 2:** For fun, using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
 
+
+
+
+# Adding style
+
+CSS stands for *Cascading Style Sheets*.
+
+CSS is a way to describe how the content on your page should look.
+
+In the `<head></head>` of your page, add the following code:
+
+```css
+body {
+	background-color:Orange;
+	color:white;
+}
+
+h1 {
+	font-family:Georgia;
+}
+
+img {
+	border:1px solid black;
+	padding:5px;
+}
+```
+
+CSS is made up of `property:value` pairs assigned to HTML elements.
+
+These `property:value` pairs are called **declarations**.
+
+[CSS reference list](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+**Practice:** Make some edits to the above CSS and see how it changes your page. Apply one other style found in the CSS reference list.
 
 
 
