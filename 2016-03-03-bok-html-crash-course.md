@@ -7,6 +7,10 @@ Notes: <http://thewc.co/s/bok2016>
 
 Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
+Early birds: If you arrive early, download, install and open <https://atom.io>
+
+
+
 
 ## HTML: The code behind web pages
 * All web pages are structured using HTML code
@@ -20,8 +24,8 @@ Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
 ## Code Editors
 * What is a code editor?
-* <https://atom.io/>
-* For this workshop we'll use <http://codepen.io>
+* Download, install: <https://atom.io>
+* Using Atom and viewing your first page
 
 
 
@@ -35,7 +39,9 @@ Tags are used to surround content, for example, here's a heading tag:
 
 The forward slash in the second tag indicates it's the **end tag**.
 
-**Practice:** Add a heading and a subheading in the HTML panel of CodePen.
+**Practice:** Create a heading and a subheading.
+
+
 
 
 ## Tag teamwork
@@ -54,6 +60,8 @@ Here are some of my favorite web sites:
 ```
 
 **Practice:** Add a list of three different websites below your headings.
+
+
 
 
 ## Links
@@ -105,11 +113,13 @@ Example:
 <img alt='Adorable kitten' src='http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kitten_in_Rizal_Park%2C_Manila.jpg/340px-Kitten_in_Rizal_Park%2C_Manila.jpg'>
 ```
 
-**Practice 2:** Using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
+**Practice 2:** For fun, using the letters from <http://lettergame.s3.amazonaws.com/details.html>, spell out your name on your page.
+
+
 
 
 ## Publishing sites online
 
 Example web hosting provider: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
 
-Example domain provider:[http://namecheap.com]()
+Example domain provider:[Namecheap](http://namecheap.com)
