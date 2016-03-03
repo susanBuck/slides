@@ -1,7 +1,7 @@
 # HTML/CSS Crash Course
 ## Bok Center - Learning Labs workshop
 
-Thu Mar 3, 2016 2-4pm
+Thursday Mar 3, 2016 2-4pm
 
 Notes: <http://thewc.co/s/bok2016>
 
