@@ -5,7 +5,7 @@ Thursday Mar 3, 2016 2-4pm
 
 Notes: <http://thewc.co/s/bok2016>
 
-Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
+Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC / susan@thewc.co
 
 Early birds: If you arrive early, download, install and open <https://atom.io>
 
