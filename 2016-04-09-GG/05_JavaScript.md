@@ -23,7 +23,7 @@ Quick Facts:
 
 ## Examples
 * [Essence: Manipulating CSS](http://codepen.io/wcc/pen/stncu/)
-* [Fun/Interactive: Animations](http://photojojo.com/store/awesomeness/sony-smart-lens-qx10-qx100/)
+* [Fun/Interactive: Animations](https://photojojo.com/awesomeness/backup-battery-buddy)
 * [Practical: Menus](https://www.google.com/)
 * [Practical: Form validation](https://wwws.mint.com/login.event?task=S)
 * [Vogue with Konami - U-U-D-D-L-R-L-R-B-A-Enter](http://www.vogue.co.uk/)
@@ -31,11 +31,11 @@ Quick Facts:
 
 
 
-## Rock, Paper, Scissors
+## Exercise: Rock, Paper, Scissors
 
-* Starting Code: <http://codepen.io/wcc/pen/joLuw>
-* Final demo, "if/else" version: <http://codepen.io/wcc/pen/kBywA>
-* Final demo, "matrix" version: <http://codepen.io/wcc/pen/JnKwC>
+* Starting Code: <http://codepen.io/wcc/pen/joLuw?editors=1010>
+* Final demo, "if/else" version: <http://codepen.io/wcc/pen/kBywA?editors=1010>
+* Final demo, "matrix" version: <http://codepen.io/wcc/pen/JnKwC?editors=1010>
 
 <!--
 1. Explain everything going on in the starting code
@@ -78,12 +78,12 @@ For example:
 var my_name = 'Francis';
 var results = 'Tie!';
 var age = 30;
+```
 
 In JavaScript, variables always start with the keyword `var`.
 
 
 
----
 ### Random numbers
 Here's the line of JavaScript that will generate either a 0, 1 or 2 (three numbers total):
 
