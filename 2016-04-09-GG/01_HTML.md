@@ -7,7 +7,7 @@
 
 ## Code Editors
 * What is a code editor?
-* <http://sublimetext.com>
+* <https://atom.io>
 * For this workshop we'll use <http://codepen.io>
 
 
@@ -29,12 +29,12 @@ Some tags work together with other tags.
 An `<ul>` ([unordered list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)) tag teams up with `<li>` ([list item](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)) tags
 
 ```html
-Here are some of my favorite web sites:
+<h2>Interesting Sites</h2>
 
 <ul>
-  <li>Google</li>
+  <li>Geek Girl Tech Conferences</li>
   <li>Women's Coding Collective</li>
-  <li>Tumblr</li>
+  <li>Wikipedia</li>
 </ul>
 ```
 
@@ -95,15 +95,6 @@ Example:
 
 # Going live
 
-Right now you're the only one that can view your web page&mdash; let's change that!
-
-Web hosting gives you a place to store your work online, where the rest of the world can access it.
-
-Example: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
-
-For this class, we'll use the free web site playground, [NeoCities](https://neocities.org).
-
-1. Create an account at Neocities: <https://neocities.org>.
-2. In Neocities, find the option to edit your `index.html` file.
-3. In `index.html`, paste in the code you've created in this class.
-4. View your finished product at `http://your-username.neocities.org`
+Recommendations:
++ Hosting: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce97069361478ba4f2426b5f9d4d)
++ Domains: [Namecheap](https://www.namecheap.com/?aff=61057)
