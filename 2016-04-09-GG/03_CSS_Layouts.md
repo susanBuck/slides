@@ -7,7 +7,7 @@ CSS styles are made up of `property:value;` pairs called **declarations**. Ex: `
 
 
 ## Why layouts are tricky
-<img src='http://making-the-internet.s3.amazonaws.com/css-layouts-sketch.png'>
+<img src='http://thewc.co/images/tasks/css2_website_sketch.jpg'>
 
 Basic styling: colors, fonts, borders...easy
 
@@ -59,7 +59,7 @@ These are the properties used layouts:
 ```
 
 ### Example 2
-<http://codepen.io/wcc/pen/Deahi>
+<http://codepen.io/wcc/pen/Deahi?editors=1100>
 
 
 ## position:absolute
