@@ -1,5 +1,5 @@
 ## Workspace
-For this workshop we'll be working in <http://codepen.io>
+In this workshop I'll be working in the code editor [Atom](http://atom.io)
 
 
 ## HTML Review
