@@ -1,24 +1,27 @@
 # Coding in the Digital Classroom
 ## Tools and strategies for teaching code online
 
-http://thewc.co/s/atp
+URL for this outline: <http://thewc.co/s/atp>
 
 April 14th, 2016
-Susan Buck <http://susanbuck.net>
-Nicole Noll [@nenoll](http://twitter.com/nenoll)
+
 
 
 
 ## Intro
 
+Susan Buck <http://susanbuck.net>
 
+Nicole Noll [@nenoll](http://twitter.com/nenoll)
+
+Survey of learning environments and tools
 
 
 
 ## Netflix for Developers
 
 Examples
-+ [Laracasts](http://laracasts.com), (Example)[https://laracasts.com/series/laravel-5-from-scratch/episodes/2]
++ [Laracasts](http://laracasts.com), [Example](https://laracasts.com/series/laravel-5-from-scratch/episodes/2)
 + [Lynda](https://lynda.com) $25/mo
 + [Khan Academy](https://khanacademy.org) Free
 
