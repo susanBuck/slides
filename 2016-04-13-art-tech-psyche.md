@@ -88,7 +88,7 @@ https://youtu.be/mDotS5BDqRM?t=503 5:03 to 19:19ish
 
 
 ## Traditional College Courses
-+ [PythonTutor](http://pythontutor.com/visualize.html#code=def+isAList(x%29%3A%0A++++'''%0A++++Provided+function%0A++++Returns+true+if+x+is+a+list,+else+false%0A++++'''%0A++++return+type(x%29+%3D%3D+type(list(%29%29%0A%0Adef+getIntegers(L%29%3A%0A%0A++++%23+Base+case%0A++++if+len(L%29+%3D%3D+0%3A%0A++++++++pass%0A++++else%3A%0A++++++++one+%3D+L%5B0%5D%0A%0A++++++++%23+If+this+item+is+a+list,+recurse+through+that+list%0A++++++++if+isAList(one%29%3A%0A++++++++++++getIntegers(one%29%0A++++++++%23+If+it's+not,+then+it's+an+integer+to+be+printed%0A++++++++else%3A%0A++++++++++++print+one%0A++++++++%0A++++++++%23+Proceed+with+the+tail%0A++++++++getIntegers(L%5B1%3A%5D%29%0A%0A%0Aex1+%3D+%5B5,%5B9,3,%5B1,2%5D%5D%5D%0Aprint+'%5CnExample+1%3A',+ex1%0AgetIntegers(ex1%29&mode=display&origin=opt-frontend.js&cumulative=false&heapPrimitives=false&textReferences=false&py=2&rawInputLstJSON=%5B%5D&curInstr=26)
++ [PythonTutor](http://pythontutor.com) [Example](https://gist.github.com/susanBuck/126cb5de878790fb3dec1784127e7717)
 + [Self-evaluation/reflection](http://misc001.s3.amazonaws.com/reflection-example.pdf)
 + [Clickers](http://www.clickerschool.com)
 + [GradeScope](https://gradescope.com)
