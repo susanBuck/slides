@@ -1,6 +1,10 @@
 ## Workspace
+<<<<<<< HEAD
 For this workshop we'll be working in <http://codepen.io>
 
+=======
+In this workshop I'll be working in the code editor [Atom](http://atom.io)
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 
 ## What is JavaScript?
@@ -23,7 +27,11 @@ Quick Facts:
 
 ## Examples
 * [Essence: Manipulating CSS](http://codepen.io/wcc/pen/stncu/)
+<<<<<<< HEAD
 * [Fun/Interactive: Animations](http://photojojo.com/store/awesomeness/sony-smart-lens-qx10-qx100/)
+=======
+* [Fun/Interactive: Animations](https://photojojo.com/awesomeness/backup-battery-buddy)
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 * [Practical: Menus](https://www.google.com/)
 * [Practical: Form validation](https://wwws.mint.com/login.event?task=S)
 * [Vogue with Konami - U-U-D-D-L-R-L-R-B-A-Enter](http://www.vogue.co.uk/)
@@ -31,11 +39,19 @@ Quick Facts:
 
 
 
+<<<<<<< HEAD
 ## Rock, Paper, Scissors
 
 * Starting Code: <http://codepen.io/wcc/pen/joLuw>
 * Final demo, "if/else" version: <http://codepen.io/wcc/pen/kBywA>
 * Final demo, "matrix" version: <http://codepen.io/wcc/pen/JnKwC>
+=======
+## Exercise: Rock, Paper, Scissors
+
+* Starting Code: <http://codepen.io/wcc/pen/joLuw?editors=1010>
+* Final demo, "if/else" version: <http://codepen.io/wcc/pen/kBywA?editors=1010>
+* Final demo, "matrix" version: <http://codepen.io/wcc/pen/JnKwC?editors=1010>
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 <!--
 1. Explain everything going on in the starting code
@@ -78,12 +94,19 @@ For example:
 var my_name = 'Francis';
 var results = 'Tie!';
 var age = 30;
+<<<<<<< HEAD
+=======
+```
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 In JavaScript, variables always start with the keyword `var`.
 
 
 
+<<<<<<< HEAD
 ---
+=======
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 ### Random numbers
 Here's the line of JavaScript that will generate either a 0, 1 or 2 (three numbers total):
 

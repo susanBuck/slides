@@ -1,5 +1,9 @@
 ## Workspace
+<<<<<<< HEAD
 For this workshop we'll be working in <http://codepen.io>
+=======
+In this workshop I'll be working in the code editor [Atom](http://atom.io)
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 
 ## CSS Basics Recap
@@ -7,7 +11,11 @@ CSS styles are made up of `property:value;` pairs called **declarations**. Ex: `
 
 
 ## Why layouts are tricky
+<<<<<<< HEAD
 <img src='http://making-the-internet.s3.amazonaws.com/css-layouts-sketch.png'>
+=======
+<img src='http://thewc.co/images/tasks/css2_website_sketch.jpg'>
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 Basic styling: colors, fonts, borders...easy
 
@@ -59,7 +67,11 @@ These are the properties used layouts:
 ```
 
 ### Example 2
+<<<<<<< HEAD
 <http://codepen.io/wcc/pen/Deahi>
+=======
+<http://codepen.io/wcc/pen/Deahi?editors=1100>
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 
 ## position:absolute

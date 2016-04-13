@@ -1,5 +1,9 @@
 ## Workspace
+<<<<<<< HEAD
 For this workshop we'll be working in <http://codepen.io>
+=======
+In this workshop I'll be working in the code editor [Atom](http://atom.io)
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 
 ## HTML Review
@@ -96,7 +100,11 @@ Recreate the following design:
 
 <img src='http://making-the-internet.s3.amazonaws.com/css-basics-exercise.png' style='border:1px solid black'>
 
+<<<<<<< HEAD
 Use an external style sheet.
+=======
+Starting point: <http://codepen.io/wcc/pen/vGpqEE?editors=1100>
+>>>>>>> a72bc3917a740ab977bbcba7ebc43df3165439d6
 
 Approach the design from the outside in&mdash; specifically by beginning with the outer box and then moving in from there. You don't want to get hung up on little details like the style of your bullet points before you get the bigger pieces together.
 
