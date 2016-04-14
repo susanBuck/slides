@@ -1,7 +1,7 @@
 # Coding in the Digital Classroom
 ## Tools and strategies for teaching code online
 
-URL for this outline: <http://thewc.co/s/atp>
+URL for this outline: <http://thewc.co/s/atp2016>
 
 April 14th, 2016
 
