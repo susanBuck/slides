@@ -7,9 +7,8 @@ April 14th, 2016
 
 
 
-
+<br><br><br>
 ## Intro
-
 Susan Buck <http://susanbuck.net>
 
 Nicole Noll [@nenoll](http://twitter.com/nenoll)
@@ -17,7 +16,7 @@ Nicole Noll [@nenoll](http://twitter.com/nenoll)
 Survey of learning environments and tools
 
 
-
+<br><br><br><br><br><br>
 ## Netflix for Developers
 Examples
 + [Laracasts](http://laracasts.com), [Example](https://laracasts.com/series/laravel-5-from-scratch/episodes/2)
@@ -33,7 +32,7 @@ Tools
 
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## Interactive Web App Learning
 Examples
 + [Code School](https://www.codeschool.com/)
@@ -48,7 +47,7 @@ Tools
 + Custom LCMS (Learning Content Management System)
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## MOOC Massive Open Online Course
 Examples
 + [Coursera](https://coursera.org) - For-profit
@@ -58,7 +57,7 @@ Tools
 + Custom LMS (Learning Management System)/LCMS (Learning Content Management System)
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## SPOC Small Private Online Course
 Example
 + [Women's Coding Collective](http://thewc.co)
@@ -71,7 +70,7 @@ Tools
 
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## Distance Learning
 Example
 + [CSCI E-15 Dynamic Web Applications](http://dwa15.com)
@@ -84,7 +83,7 @@ Tools
 
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## Traditional College Courses
 Example
 + Wellesley CS111 Computer Programming and Problem Solving
@@ -94,7 +93,7 @@ Tools
 + [GradeScope](https://gradescope.com)
 
 
-<br><br><br>
+<br><br><br><br><br><br>
 ## Considerations
 + Structure
 + Community
@@ -105,9 +104,6 @@ Tools
 + Scalability
 + Cost
 + Completion
-
-
-
 
 ## Discussion
 + Applies beyond the scope of programming
