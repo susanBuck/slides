@@ -78,7 +78,7 @@ Example
 
 Tools
 + [Slack](https://slack.com), [Piazza](http://piazza.com)
-+ [WebEx Web Conferencing][https://www.webex.com/]
++ [WebEx Web Conferencing](https://www.webex.com)
 + [CodeShare](https://codeshare.io)
 
 
