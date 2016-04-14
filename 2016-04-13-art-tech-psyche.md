@@ -19,39 +19,23 @@ Survey of learning environments and tools
 
 
 ## Netflix for Developers
-
 Examples
 + [Laracasts](http://laracasts.com), [Example](https://laracasts.com/series/laravel-5-from-scratch/episodes/2)
-+ [Lynda](https://lynda.com) $25/mo
++ [Lynda](https://lynda.com) $25/mo or free for Harvard affiliates
 + [Khan Academy](https://khanacademy.org) Free
++ YouTube
 
-Screencasting
+Tools
 + [Camtasia](https://www.techsmith.com/camtasia.html) Mac/PC $99
 + [Screenflow](https://www.telestream.net/screenflow/) Mac $99
-
-Hosting
-+ YouTube
-+ Vimeo
-+ Self-hosted
-
-Notes
-+ Pick and choose
-+ Not project based
-+ No accreditation
-
-https://youtu.be/mDotS5BDqRM?t=503 5:03 to 19:19ish
-
-
-## MOOCs
-+ [Coursera](https://coursera.org) - For-profit
-+ [EdX](https://edx.org) - Non-profit
-
-+ Assessment: computer-based marking, peer review
-+ Blended learning
++ Microphone
++ YouTube, Vimeo, Self-hosted
 
 
 
-## Software learning
+
+## Interactive Web App Learning
+Examples
 + [Code School](https://www.codeschool.com/)
     + &ldquo;Learn by doing&rdquo;
     + [Example](http://javascript-roadtrip.codeschool.com/levels/1/challenges/2)
@@ -60,15 +44,41 @@ https://youtu.be/mDotS5BDqRM?t=503 5:03 to 19:19ish
     + [Example](https://www.codecademy.com/courses/introduction-to-python-6WeG3/0/1?curriculum_id=4f89dab3d788890003000096)
     + Free
 
+Tools
++ LCMS (Learning Content Management System)
 
 
-## CSCI E-15 Dynamic Web Applications
-+ Harvard Extension School <http://dwa15.com>
-+ Structures
-    + Online only
-    + Hybrid
+## MOOCs
+Examples
++ [Coursera](https://coursera.org) - For-profit
++ [EdX](https://edx.org) - Non-profit
+
+Tools
++ Custom LMS (Learning Management System)/LCMS (Learning Content Management System)
+
+
+
+## SPOC Small Private Online Course
+Example
++ [Women's Coding Collective](http://thewc.co)
+
+Tools
++ Platform
++ YouTube
++ Forum &ldquo;Study Groups&rdquo;
++ [CodePen](http://codepen.io)
+
+
+
+
+## Distance Learning
+Example
++ [CSCI E-15 Dynamic Web Applications](http://dwa15.com)
++ Structures: Online only, Hybrid
+
+Tools
 + [Screenflow](https://www.telestream.net/screenflow)
-+ YouTube hosted videos
++ YouTube
 + [Slack](https://slack.com)
 + [CodeShare](https://codeshare.io)
 + [Piazza](http://piazza.com)
@@ -76,29 +86,31 @@ https://youtu.be/mDotS5BDqRM?t=503 5:03 to 19:19ish
 
 
 
-## Women's Coding Collective
-+ <http://thewc.co>
-+ SPOC - Small Private Online Course
-+ Asynchronous
-+ Scheduled, distributed material
-+ Forum &ldquo;Study Groups&rdquo;
-+ [CodePen](http://codepen.io)
-
-
-
-
 ## Traditional College Courses
-+ [PythonTutor](http://pythontutor.com) [Example](https://gist.github.com/susanBuck/126cb5de878790fb3dec1784127e7717)
+Example
++ Wellesley CS111 Computer Programming and Problem Solving
+
+Tools
 + [Self-evaluation/reflection](http://misc001.s3.amazonaws.com/reflection-example.pdf)
 + [Clickers](http://www.clickerschool.com)
 + [GradeScope](https://gradescope.com)
 
 
 
+## Considerations
++ Structure
++ Community
++ Accreditation
++ Certification weight
++ Project-based
++ Evaluation
++ Scalability
++ Cost
++ Completion
 
-## Conclusion
-+ Programming fluency
-+ Problem solving
-+ Communication
-+ Documentation and research
-+ Adaptation
+
+
+
+## Discussion
++ Applies beyond the scope of programming
++ How do digital classrooms impact your field?
