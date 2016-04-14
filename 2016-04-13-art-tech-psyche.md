@@ -23,17 +23,17 @@ Examples
 + [Laracasts](http://laracasts.com), [Example](https://laracasts.com/series/laravel-5-from-scratch/episodes/2)
 + [Lynda](https://lynda.com) $25/mo or free for Harvard affiliates
 + [Khan Academy](https://khanacademy.org) Free
-+ YouTube
 
 Tools
 + [Camtasia](https://www.techsmith.com/camtasia.html) Mac/PC $99
 + [Screenflow](https://www.telestream.net/screenflow/) Mac $99
-+ Microphone
++ Microphone:(Audio-Technica-AT2020USB-Condenser-Microphone)[http://www.amazon.com/Audio-Technica-AT2020USB-Condenser-Microphone/dp/B0145OGS7U/ref=sr_1_2?ie=UTF8&qid=1460608331&sr=8-2&keywords=Audio+Technica+AT2020USB%2B]
 + YouTube, Vimeo, Self-hosted
 
 
 
 
+<br><br><br>
 ## Interactive Web App Learning
 Examples
 + [Code School](https://www.codeschool.com/)
@@ -45,10 +45,11 @@ Examples
     + Free
 
 Tools
-+ LCMS (Learning Content Management System)
++ Custom LCMS (Learning Content Management System)
 
 
-## MOOCs
+<br><br><br>
+## MOOC Massive Open Online Course
 Examples
 + [Coursera](https://coursera.org) - For-profit
 + [EdX](https://edx.org) - Non-profit
@@ -57,46 +58,43 @@ Tools
 + Custom LMS (Learning Management System)/LCMS (Learning Content Management System)
 
 
-
+<br><br><br>
 ## SPOC Small Private Online Course
 Example
 + [Women's Coding Collective](http://thewc.co)
 
 Tools
-+ Platform
++ Custom LCMS (Learning Content Management System)
 + YouTube
 + Forum &ldquo;Study Groups&rdquo;
-+ [CodePen](http://codepen.io)
 
 
 
 
+<br><br><br>
 ## Distance Learning
 Example
 + [CSCI E-15 Dynamic Web Applications](http://dwa15.com)
 + Structures: Online only, Hybrid
 
 Tools
-+ [Screenflow](https://www.telestream.net/screenflow)
-+ YouTube
-+ [Slack](https://slack.com)
++ [Slack](https://slack.com), [Piazza](http://piazza.com)
++ [WebEx Web Conferencing][https://www.webex.com/]
 + [CodeShare](https://codeshare.io)
-+ [Piazza](http://piazza.com)
 
 
 
-
+<br><br><br>
 ## Traditional College Courses
 Example
 + Wellesley CS111 Computer Programming and Problem Solving
 
 Tools
 + [Self-evaluation/reflection](http://misc001.s3.amazonaws.com/reflection-example.pdf)
-+ [Clickers](http://www.clickerschool.com)
 + [GradeScope](https://gradescope.com)
 
 
-
+<br><br><br>
 ## Considerations
 + Structure
 + Community
