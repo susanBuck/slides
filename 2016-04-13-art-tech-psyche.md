@@ -26,7 +26,7 @@ Examples
 Tools
 + [Camtasia](https://www.techsmith.com/camtasia.html) Mac/PC $99
 + [Screenflow](https://www.telestream.net/screenflow/) Mac $99
-+ Microphone: (Audio-Technica-AT2020USB-Condenser-Microphone)[http://www.amazon.com/Audio-Technica-AT2020USB-Condenser-Microphone/dp/B0145OGS7U/ref=sr_1_2?ie=UTF8&qid=1460608331&sr=8-2&keywords=Audio+Technica+AT2020USB%2B]
++ Microphone: Audio Technica AT2020USB Condenser Microphone $150
 + YouTube, Vimeo, Self-hosted
 
 
