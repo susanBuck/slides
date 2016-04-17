@@ -16,11 +16,12 @@ Susan Buck / [Women's Coding Collective](http://thewc.co) / @WeAreWCC
 
 # Code Editors
 * What is a code editor?
-* Application: Sublime <http://sublimetext.com>
+* Application: Atom <http://atom.io>
 * Browser based: CodePen <http://codepen.io>
 * Some benefits of a code editor
 	* Line numbers
 	* Syntax highlighting
+	* Code hinting
 
 
 # Tag basics
@@ -154,7 +155,51 @@ Example: [SiteGround](http://www.siteground.com/index.htm?afcode=bf90ce970693614
 
 For this class, we'll use the free web site playground, [NeoCities](https://neocities.org).
 
-1. Create an account at Neocities: <https://neocities.org>.
-2. In Neocities, find the option to edit your `index.html` file.
-3. In `index.html`, paste in the code you've created in this class.
-4. View your finished product at `http://your-username.neocities.org`
+## Step 1)
+Create an account at Neocities: <https://neocities.org>.
+
+
+## Step 2) Add your CSS styles
+In Neocities, find the button to add a __New File__ and create a new file called `style.css`.
+
+Find the __Edit__ button for this file you just created (`style.css`).
+
+In the code editor window that opens, copy and paste the CSS code you wrote in CodePen today. (Copy just the CSS code, *not* the HTML code)
+
+Click __Save__ to save your changes to `style.css`, and then go back to your __Dashboard__.
+
+
+## Step 4)
+Find the existing file `index.html` and click __Edit__.
+
+Delete *all* the default code that is currently in that file.
+
+Copy and paste in this HTML template:
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>My First Web Page</title>
+	<meta charset='utf-8'>
+
+	<link rel='stylesheet' href='style.css' type='text/css'>
+
+</head>
+<body>
+
+
+
+</body>
+</html>
+```
+
+## Step 5)
+Within the `<body></body>` of the code you just pasted above, copy and paste the HTML code you wrote today in CodePen. (Copy just the HTML code, *not* the CSS code).
+
+Once your code is pasted click __Save__.
+
+
+## Step 6)
+View your finished product at `http://your-username.neocities.org`
