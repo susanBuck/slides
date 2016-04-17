@@ -162,7 +162,7 @@ Create an account at Neocities: <https://neocities.org>.
 ## Step 2) Add your CSS styles
 In Neocities, find the button to add a __New File__ and create a new file called `style.css`.
 
-Find the __Edit__ button for this file you just created (`style.css`).
+Find the __Edit__ button for this file you just created.
 
 In the code editor window that opens, copy and paste the CSS code you wrote in CodePen today. (Copy just the CSS code, *not* the HTML code)
 
@@ -176,7 +176,7 @@ Delete *all* the default code that is currently in that file.
 
 Copy and paste in this HTML template:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
